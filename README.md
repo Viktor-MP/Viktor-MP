@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Viktor-MP
-- 🌱 I’m currently learning Python
-- 👀 I’m interested in telegramBots and webSites
+- ✅ Here is a basic chess game https://viktor-mp.github.io/Chess-JS
+      using only JavaScript 
+- 🌱 I’m currently learning node.JS and express.JS
+- 👀 And trying to make my first fool stack application. You can see it in my GitHab "myPortfolio" repository.
 - 📫 How to reach me viktormelikparsadanyan@gmail.com
 - 💞️ I’m looking to collaborate on E-commerce Website, Blog Platform, telegram bots
 
